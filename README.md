@@ -31,20 +31,19 @@ pip install ultralytics opencv-python cvzone filterpy numpy
 
 ---
 
-##📁 Requirements
-Python 3.8+
+## 📁 Requirements
 
-YOLOv8 weights: yolov8n.pt (downloaded automatically via Ultralytics)
-
-Input video file (.mp4)
+- **Python 3.8+**
+- **YOLOv8 weights:** `yolov8n.pt` (downloaded automatically via Ultralytics)
+- **Input video file:** `.mp4`
 
 ---
 
-##🙏 Credits
-Ultralytics YOLOv8
+## 🙏 Credits
 
-SORT Tracker
+- **Ultralytics YOLOv8**
+- **SORT Tracker**
+- **CVZone**
 
-CVZone
 
 
