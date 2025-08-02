@@ -29,12 +29,16 @@ This project implements a real-time vehicle counting system using **YOLOv8 objec
 ## 🗂️ Install Dependencies
 pip install ultralytics opencv-python cvzone filterpy numpy
 
+---
+
 ##📁 Requirements
 Python 3.8+
 
 YOLOv8 weights: yolov8n.pt (downloaded automatically via Ultralytics)
 
 Input video file (.mp4)
+
+---
 
 ##🙏 Credits
 Ultralytics YOLOv8
